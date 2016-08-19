@@ -2,3 +2,5 @@
 
 # updated on vmlxu2
 echo "test"
+
+echo "test2"
